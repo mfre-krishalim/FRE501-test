@@ -1,3 +1,4 @@
+# Sample Dr. Vercammen edits this codes
 # this code specifies the function which delivers the 24 delta values to the main program.
  
 get_delta <- function(v) {
